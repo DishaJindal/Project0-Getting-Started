@@ -12,10 +12,10 @@ Project 0 Getting Started
 
 ![](https://github.com/DishaJindal/Project0-Getting-Started/blob/master/images/gpu-webgl-status.jpg)
 - **Part 2.2: WebGL; entire output of chrome:\\gpu in pdf**
-  - gpu.pdf
+  - [chrome-gpu-output](https://github.com/DishaJindal/Project0-Getting-Started/blob/master/images/gpu.pdf)
   
-- **Part 2.3: DXR; screenshot of the triangle with modified barycentrics**
-  - I did my assignment using one of the computers in Moore 100B Lab. I couldn't run this part of the assignment there because developer mode was disabled and have sent an email to cets@ to see If it is possible to get the access. Also tried using SIG Lab computers, but couldn't log into any of the machines and nobody around happened to know the password for SIG admin user.
+- **Part 2.3: DXR**
+I did my assignment using one of the computers in Moore 100B Lab. I couldn't run this part of the assignment there because developer mode was disabled and have sent an email to cets@ to see If it is possible to get the access. Also tried using SIG Lab computers, but couldn't log into any of the machines and couldn't find the password for SIG admin user.
 - **Part 4: Modify; screenshot of the app window with my name in the title bar**
 
 ![](https://github.com/DishaJindal/Project0-Getting-Started/blob/master/images/modify-name.jpg)
